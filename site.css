@@ -5,15 +5,32 @@
 #blueNavBar {
     background-color:#1F45FC;
     margin-left: 0px;
-    margin-top: 15px;
+    margin-top: 10px;
     margin-right: 500px;
-    float:left;
+    width:685px;
+    height:50px;
+
 }
+
+div.row.pageTop {
+    margin-top:15px;
+   }
 
 .row-Nav-search {
     float: right;
     display:block;
     margin: 0px;
+    margin-top:0px;
+    }
+
+hr {
+    margin-bottom:0px;
+    margin-top:0px;
+}
+
+#nav#nav-pills {
+    margin-top:0px;
+    margin-bottom:0px;
 }
 
 h3 {
@@ -21,4 +38,15 @@ h3 {
 }
 .form-group {
     margin:0;
+}
+
+div#myCarousel.carousel {
+    margin-right:0px;
+    margin-left:0px;
+    height:400px;
+     }
+div.carousel-inner {
+    height:400px;
+    width:100%;
+    position:relative;
 }
