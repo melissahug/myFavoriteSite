@@ -1,0 +1,24 @@
+﻿body {
+    background-color: #303030;
+}
+
+#blueNavBar {
+    background-color:#1F45FC;
+    margin-left: 0px;
+    margin-top: 15px;
+    margin-right: 500px;
+    float:left;
+}
+
+.row-Nav-search {
+    float: right;
+    display:block;
+    margin: 0px;
+}
+
+h3 {
+  color:white;  
+}
+.form-group {
+    margin:0;
+}
